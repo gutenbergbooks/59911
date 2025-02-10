@@ -1,29 +1,7 @@
-The Project Gutenberg EBook of The Rock Ahead. (Vol. 1 of 2), by Edmund Yates
-
-This eBook is for the use of anyone anywhere in the United States and most
-other parts of the world at no cost and with almost no restrictions
-whatsoever.  You may copy it, give it away or re-use it under the terms of
-the Project Gutenberg License included with this eBook or online at
-www.gutenberg.org.  If you are not located in the United States, you'll have
-to check the laws of the country where you are located before using this ebook.
-
-Title: The Rock Ahead. (Vol. 1 of 2)
-       A Novel
-
-Author: Edmund Yates
-
-Release Date: July 15, 2019 [EBook #59911]
-
-Language: English
-
-Character set encoding: ISO-8859-1
-
-*** START OF THIS PROJECT GUTENBERG EBOOK THE ROCK AHEAD. (VOL. 1 OF 2) ***
+*** START OF THE PROJECT GUTENBERG EBOOK 59911 ***
 
 
 
-
-Produced by Charles Bowen
 
 
 
@@ -755,7 +733,7 @@ as that sandy-haired and youthful general practitioner was called by
 his not numerous clients, he saw a female figure bending over the bed.
 It was not that of Mrs. Bush; he had passed her loitering on the
 stairs,--ostensibly that she might conduct the gentlemen to the scene
-of action, really because she dared not reënter the room unsupported
+of action, really because she dared not reÃ«nter the room unsupported
 by a medical presence. The figure did not change its attitude as they
 entered, and Dr. Muxky approached the patient with a professional
 gliding step. He was followed by Lloyd; who, however, stopped abruptly
@@ -951,7 +929,7 @@ nerves."
 
 "That's just the point, Mrs. Bush," said Mr. Muxky, who was not going
 to lose the chance; "nothing to fear; but yet, some temperaments so
-constituted that--like the Æolian harp--the--the slightest breath of
+constituted that--like the Ã†olian harp--the--the slightest breath of
 fright has an effect on them. If my poor services now could be of any
 use--"
 
@@ -1984,7 +1962,7 @@ in long vistas. But under the dire pressure of necessity the woodman's
 axe has been frequently at work lately in these "cool colonnades," and
 the avenues are consequently much shorn of their fair proportions. The
 house is a big incongruous mass of two distinct styles of
-architecture--a grafting of Inigo Jones's plain façade and Corinthian
+architecture--a grafting of Inigo Jones's plain faÃ§ade and Corinthian
 pillars on a red-brick Elizabethan foundation, with projecting
 mullioned windows, octagonal turrets, quaintly-carved cornices, and
 ornamental doorways. Round the house runs a broad stone terrace
@@ -3016,7 +2994,7 @@ The best people? The very best.
 It was the fashion in certain circles to talk of "the mixture" which
 you met at Carabas House; and the young Duchess of Taffington (whose
 father was old Bloomer the banker of Lombard-street, and whose
-grandfather was old Bloöm the money-lender and diamond-merchant of
+grandfather was old BloÃ¶m the money-lender and diamond-merchant of
 Amsterdam) and old Lady Clanronald, with whom her husband, then the
 Hon. Ulick Strabane, fell in love, from seeing her looking over the
 blind in her father's (the apothecary's) window in Drogheda,--both
@@ -3111,7 +3089,7 @@ many hours before his limp glazed card was on the hall-table at
 Carabas House. Baton, the _chef d'orchestre_, would as soon have
 thought of being absent from his conductor's stool on a Saturday night
 as from Lady Carabas's luncheon-table on a Sunday afternoon. There the
-most promising pupils of the Academy of Music made their _débuts_ in
+most promising pupils of the Academy of Music made their _dÃ©buts_ in
 cantatas or operettas, written by distinguished amateurs, and thereby
 considered themselves entitled ever after to describe themselves as
 "of the nobility's concerts;" and there, on festival nights, could you
@@ -3153,7 +3131,7 @@ have no claim upon her thoughts."
 
 "My dear fellow," said Lord Sandilands, "you will very soon see that
 Lady Carabas interests herself about everybody and everything. That is
-her _métier_. She will talk to the Bishop of Boscastle about the
+her _mÃ©tier_. She will talk to the Bishop of Boscastle about the
 Additional Curates' Fund, and to Sir Charles Chifney about his chance
 for the Leger. She knows what price Scumble got for his Academy
 picture; and can tell you the plot of Spofforth's five-act play, which
@@ -3241,7 +3219,7 @@ have similar pleasant resorts at his command, felt the oppressive
 thoughts, the dull, dead level of world-weariness and vapidity,
 gradually slipping from him. His eyes brightened, he looked round him
 eagerly, and his whole demeanour was so fresh and spirited and
-youthful as to seriously annoy several _blasé_ young men of two or
+youthful as to seriously annoy several _blasÃ©_ young men of two or
 three-and-twenty, who had long since used up all signs of youth, and
 who inquired of each other who was the rustic, gushing person that old
 Sandilands had brought with him.
@@ -3317,7 +3295,7 @@ continuous ripple of sound, such as is seldom heard in human voice.
 Few notes had been uttered before their effect became visible on the
 whole assemblage--amongst the foreigners first; on the back benches,
 where were gathered the hirsute professionals honoured with the
-_entrée_ to Lady Carabas' concerts, there was an immediate movement, a
+_entrÃ©e_ to Lady Carabas' concerts, there was an immediate movement, a
 simultaneous pricking of ears and elevation of eyebrows, culminating
 into a general impossible-to-be-suppressed "A--h!" of intense delight.
 Then the enthusiasm spread. Impressible young girls with the
@@ -3351,7 +3329,7 @@ tremblingly-proffered arm, and disappeared from public view. Ten
 minutes' interval now, much needed. Impossible, after such a display,
 to keep the coterie quiet, and it breaks up at once into twenty little
 knots, all with the same refrain of praise, differently expressed:
-"_Das ist aber'was Schönes!" "Tiens, tiens, Jules! v'là donc un
+"_Das ist aber'was SchÃ¶nes!" "Tiens, tiens, Jules! v'lÃ  donc un
 rossignol charmant!_" "That's what I call good singing, for an
 Englishwoman, that is, Veluti! _Capisco, signor!_" "Tell you what it
 is, old fella; since poor Bosio, you know, never heard anything like
@@ -3451,7 +3429,7 @@ himself not sufficiently appreciated, and thirsting for Miss Lambert's
 blood--both, however, consoled by old Piccolo, the fashionable
 music-master, who is popularly supposed to have been allied with Auber
 and Offenbach in writing Mr. Wisk's operetta, and who tells them that
-Miss Lambert's triumph is a mere _succès d'estime_, and that she will
+Miss Lambert's triumph is a mere _succÃ¨s d'estime_, and that she will
 "go out like that--pouf!" Piccolo snapping his fingers and blowing out
 an imaginary candle in explanation. Foreigners having been fed, and a
 proper quantity of champagne and seltzer-water having been duly drunk,
@@ -4024,7 +4002,7 @@ struck him. He was a known connoisseur in music, a known patron of
 musical art; everyone who was anyone in the musical world sought an
 introduction to Lord Sandilands. In the case of Miss Grace Lambert,
 his generally extended patronage had been especially requested by Lady
-Carabas for her _protégée_. Here was a fair and legitimate expedient
+Carabas for her _protÃ©gÃ©e_. Here was a fair and legitimate expedient
 within his reach for securing access to Miss Lambert, without the
 slightest risk of awakening suspicion, either in her mind or in that
 of sharp-sighted observers, that he was actuated by any particular
@@ -4177,7 +4155,7 @@ established himself in a pleasant little bedchamber in the bachelor's
 wing of the Badischer Hof, and proceeded to commence operations. The
 language, the appearance, the manners of the regular turfite he at
 once discarded, though an occasional hint dropped in conversation at
-the _table d'hôte_ or in the Kursaal, at both of which places he soon
+the _table d'hÃ´te_ or in the Kursaal, at both of which places he soon
 made many promiscuous acquaintances, conveyed a notion that the
 _arcana_ of the Ring were, or had been, sufficiently familiar to him.
 At the tables he played nightly, with varying fortune it was thought,
@@ -4251,7 +4229,7 @@ and he had carefully avoided being presented or becoming known to Lord
 Ticehurst in an inferior position.
 
 When Gilbert arrived at the Badischer Hof, the first person he saw at
-the late _table d'hôte_ was Lord Ticehurst; the second was Plater
+the late _table d'hÃ´te_ was Lord Ticehurst; the second was Plater
 Dobbs, who acted as his lordship's henchman, Mentor, and confidential
 upper servant. A stout short man, Plater Dobbs (his real name was
 George, and he was supposed once to have been a major in something,
@@ -4298,7 +4276,7 @@ unexpected fluke at _trente et quarante_. Let him only hook Ticehurst,
 and--_rien ne va plus!_
 
 An ordinary sharper would have taken advantage of the frequent
-opportunities afforded by the _table d'hôte_ and continental life
+opportunities afforded by the _table d'hÃ´te_ and continental life
 generally, have spoken to Lord Ticehurst, and managed to secure a
 speaking acquaintanceship with him. But Gilbert Lloyd was not an
 ordinary sharper, and he saw clearly enough how little that course
@@ -4311,7 +4289,7 @@ that chance came thus.
 
 Among the frequenters of the Kursaal was a French gentleman of
 some thirty-five years of age, black-bearded, bright-eyed, and
-thin-waisted. André de Prailles was this gentleman's name, Paris was
+thin-waisted. AndrÃ© de Prailles was this gentleman's name, Paris was
 his nation, and, to carry out the old rhyme, the degradation of
 England and her children was apparently his vocation. In private and
 in public he took every opportunity of saying unpleasant things about
@@ -4328,7 +4306,7 @@ feature" in the society of the place. M. de Prailles' Anglophobia had
 contented itself with disdainful glances at the representatives of the
 land which he detested, and with muttering with bated breath at all
 they said and did, until the arrival at Baden of Mdlle. de Meronville,
-the celebrated _ingénue_ of the Vaudeville, with whom M. de Prailles
+the celebrated _ingÃ©nue_ of the Vaudeville, with whom M. de Prailles
 had an acquaintance, and for whom he professed an adoration.
 
 Mdlle. de Meronville was a bright lithe little woman, with large black
@@ -4344,11 +4322,11 @@ the entire novelty of her style and conduct that gave her such a charm
 in the eyes of Lord Ticehurst, for charm she undoubtedly had. A
 devotion to the opposite sex had never hitherto been classed among the
 weaknesses of that amiable nobleman; but he was so completely overcome
-by the fascinations of Eugénie de Meronville, that no youth ever
+by the fascinations of EugÃ©nie de Meronville, that no youth ever
 suffered more severely from "calf-love" than this reckless roisterer.
 He followed her about like her shadow; when in her company, after he
 had obtained an introduction to her, he would address to her the most
-flowery compliments in a curious _mélange_ of tongues; and when absent
+flowery compliments in a curious _mÃ©lange_ of tongues; and when absent
 from her he would sit and puff his cigar in moody silence, obstinately
 rejecting all efforts to withdraw him from his sentimental
 abstraction. Plater Dobbs regarded this new phase in his pupil's
@@ -4361,22 +4339,22 @@ beauties: an English grass-widow whose husband was in India, and a
 Russian lady, who regarded the fact of her liege lord's being ruined,
 and sinking from a position of affluence into that of a hotel-keeper,
 as quite enough to excuse her leaving him for ever. But Ticehurst
-sulked through the banquet, and the ladies agreed in voting him _bête_
+sulked through the banquet, and the ladies agreed in voting him _bÃªte_
 and _mauvais ton_. The fact was that the man was madly in love with
-Eugénie de Meronville, and cared for nothing but her society.
+EugÃ©nie de Meronville, and cared for nothing but her society.
 
 What one does and where one goes and with whom one passes one's time
 is, of course, very easily known in a small coterie such as that
 assembled in the autumn at Baden; and it is not to be wondered at that
-M. André de Prailles suffered many a bad quarter of an hour as he
+M. AndrÃ© de Prailles suffered many a bad quarter of an hour as he
 witnessed and heard of the amicable relations between his fair
 compatriot and one of the leading representatives of that nation which
 he detested. What added to M. de Prailles' anger was the fact that
 whereas in Paris, where he was known to be the friend of certain
 _feuilletonistes_ with whom it was well for every actress to be on
 good terms, he had had cause for believing himself to be well thought
-of by the _ingénue_ of the Vaudeville, at Baden, where no such
-inducement existed, he had been completely snubbed by Eugénie, and
+of by the _ingÃ©nue_ of the Vaudeville, at Baden, where no such
+inducement existed, he had been completely snubbed by EugÃ©nie, and
 treated with a _hauteur_ which set his blood boiling in his veins. M.
 de Prailles resented this after his own fashion. First, he addressed a
 passionate letter to his idol, reproaching her for her perfidy. To
@@ -4397,7 +4375,7 @@ about."
 
 At last, one night, the long-threatened explosion took place. A sudden
 storm of wind and rain swept down from the Black Forest, and the
-curious vehicle attached to the Hôtel d'Angleterre was sent for to
+curious vehicle attached to the HÃ´tel d'Angleterre was sent for to
 convey Mdlle. de Meronville from the Kursaal to her rooms. The little
 actress had been playing with great ill-luck, and had been duly waited
 upon by Lord Ticehurst; but at the moment when the arrival of the
@@ -4411,7 +4389,7 @@ backwards and fell forward himself. He had scarcely recovered himself
 when the roll of the departing vehicle was in his ears, and M. de
 Prailles was standing before him fuming.
 
-"An accident? nothing of the sort! _Exprès! tout à fait exprès!_"
+"An accident? nothing of the sort! _ExprÃ¨s! tout Ã  fait exprÃ¨s!_"
 
 A crowd gathered at the ominous words and at the tone of voice in
 which they were uttered: Plater Dobbs and Gilbert Lloyd foremost among
@@ -4420,13 +4398,13 @@ collected; Lord Ticehurst, very pale, and with an odd twitching in the
 muscles of his month.
 
 "It was no accident, that tumble!" shrieked M. de Prailles. "It was a
-studied insult offered to a lady by a barbarian! _Exprès,
-entendes-vous, messieurs, exprès?_"
+studied insult offered to a lady by a barbarian! _ExprÃ¨s,
+entendes-vous, messieurs, exprÃ¨s?_"
 
 Then, seeing that his opponent stood motionless, the little Frenchman
 drew himself on tiptoes, and hissed out,
 
-"_Et il ne dit rien? Décidément, milor, vous êtes un lâche!_" and he
+"_Et il ne dit rien? DÃ©cidÃ©ment, milor, vous Ãªtes un lÃ¢che!_" and he
 made a movement as though he would have struck Lord Ticehurst with his
 open hand.
 
@@ -4438,7 +4416,7 @@ want any rough-and-tumble here! _Ally, party, mossoo!_"
 
 "_Au diable, ivrogne!_" was all the response which M. de Prailles
 chose to make to this elegant appeal; but he turned to some of his
-compatriots, and said, "_Regardez donc la figure de ce milor là!_" And
+compatriots, and said, "_Regardez donc la figure de ce milor lÃ !_" And
 in truth Lord Ticehurst was almost livid, and the chair against which
 he was leaning trembled in his grasp. At that moment Gilbert Lloyd
 stepped forward.
@@ -4468,7 +4446,7 @@ served me so well; it would have been impossible for your lordship to
 have gone out with such a fellow."
 
 
-M. André de Prailles left Baden very early the next morning: but the
+M. AndrÃ© de Prailles left Baden very early the next morning: but the
 events of that night affected more than him. Although he was not of a
 grateful or recognisant nature, Lord Ticehurst felt keenly the
 material assistance which Gilbert Lloyd afforded him at what in his
@@ -4491,7 +4469,7 @@ which Lord Ticehurst set himself at once, and carried out with great
 speed and success. He found little opposition from the Plater. That
 worldly-wise old person had seen how matters stood--"how the cat
 jumped," as he phrased it--from the first, and was perfectly prepared
-to receive his _congé_. Nor, indeed, was he altogether displeased at
+to receive his _congÃ©_. Nor, indeed, was he altogether displeased at
 the arrangement. His good qualities were few enough, but among them
 was the possession of personal pluck and courage, and a horror of
 anyone in whom these were lacking. "I always knew Etchingham was a
@@ -4683,13 +4661,13 @@ evening, before he got to Carabas House? Ticehurst was wonderfully
 enthusiastic for him--such a face, such a figure, such a lovely voice!
 These raptures meant nothing serious, Gilbert supposed; at all events
 he intended to take care that they should mean nothing serious. That
-affair of Eugénie de Meronville, when Ticehurst's admiration very
+affair of EugÃ©nie de Meronville, when Ticehurst's admiration very
 nearly brought him under an infuriated Frenchman's fire, had been of
 infinite service, Gilbert reflected with a grin, in cooling his
 lordship's love ardour, and indeed had kept him very much aloof from
 the sex. It was better so; if Lord Ticehurst married, more than half
 Gilbert Lloyd's influence would be gone, if indeed the turf were not
-abandoned, and the "confederate" _chasséd_; and any other arrangement
+abandoned, and the "confederate" _chassÃ©d_; and any other arrangement
 in which a woman might be concerned would be equally unsatisfactory.
 Fancy his having seen Miles, and heard the old name too! How much did
 Miles know? He turned on his heel as if--and yet the old man would
@@ -4809,7 +4787,7 @@ produced a second edition of them for the benefit of Mrs. Bloxam, when
 Miss Lambert had left the room, and evinced so much curiosity
 concerning Miss Lambert's future plans, throwing out hints of the
 advantage to be derived from the judicious promulgation of reports as
-_avant-coureurs_ of a _débutante_, that Mrs. Bloxam felt convinced of
+_avant-coureurs_ of a _dÃ©butante_, that Mrs. Bloxam felt convinced of
 his sincerity, and forthwith began to form a pleasant scheme for the
 future in her fancy.
 
@@ -4998,7 +4976,7 @@ And now that success seemed to be assured indeed. The little coterie
 which was wont to assemble almost daily at the villa would rejoice
 hugely on the morrow of the grand concert at Carabas House, and the
 grand Carabas Marchioness would no doubt speed the fame of her
-_protégée's_ success far and wide in the most profitable directions.
+_protÃ©gÃ©e's_ success far and wide in the most profitable directions.
 
 The Marchioness had "taken up" Signer da Capo's favourite pupil,
 concerning whom the gushing Italian was wont to tell wonderful things,
@@ -5017,7 +4995,7 @@ amiable determination to bring her out at Carabas House, and so at
 once serve Miss Lambert, and prevent Lady Lowndes, who was her
 intimate enemy, and a rival patroness of genius, art, literature, and
 fashionable religion, from "getting hold of" the promising young
-_débutante_. The pleasure of the honest signor--who was truly
+_dÃ©butante_. The pleasure of the honest signor--who was truly
 interested in his young friend, and who religiously believed every
 word he had said in her favour--when Lady Carabas announced her
 intention of making Miss Lambert's acquaintance, was genuine and
@@ -5049,14 +5027,14 @@ slightest "tendre."
 
 "How very charming!" said the Marchioness of Carabas to herself, a day
 or two before the grand concert at Carabas House; "this young
-creature's heart has evidently never spoken. She will be a _débutante_
+creature's heart has evidently never spoken. She will be a _dÃ©butante_
 in every sense."
 
 The heart of the most noble had spoken so frequently, that it might
 fairly be supposed to be a little hoarse. Hence her admiration of the
 inarticulatism of that organ in the case of Grace Lambert. As she
 drove in the Park that day, she actually meditated upon the expediency
-of introducing to the special notice of her charming _protégée_ a
+of introducing to the special notice of her charming _protÃ©gÃ©e_ a
 delightful man in the Blues, who had up to a late period "understood"
 her, but who had had the misfortune to bore her lately, and the bad
 taste to take his dismissal in dudgeon.
@@ -5064,7 +5042,7 @@ taste to take his dismissal in dudgeon.
 "He knows about music," thought her ladyship; "yes, that will do;" and
 then she pulled the deck-string, and gave the order "home," and had
 scribbled half-a-dozen notes of invitation to a little dinner _en
-petit comité_ on the following Sunday, before post-hour. One of the
+petit comitÃ©_ on the following Sunday, before post-hour. One of the
 half-dozen notes was addressed to Lord Sandilands, a second to the man
 in the Blues, and a third to Miss Grace Lambert. The destination of
 the other three is no concern of ours.
@@ -5218,13 +5196,13 @@ he owned a tongue which could make itself felt "doosid unpleasantly,
 don't you know!--kind of rough side of it, and all that sort of thing,
 you know!" To women he was always scrupulously attentive, and was in
 consequence in the greatest favour amongst them. The fact of his
-wearing the willow for his old love, Lady Lucy Beecher, was _répandu_
+wearing the willow for his old love, Lady Lucy Beecher, was _rÃ©pandu_
 from Belgrave- to Grosvenor-squares; and the story, which had won for
 him such affectionate interest amongst those who were young at the
 time when, as all supposed, he was jilted by the fair one, and bore
 his jilting so manfully, yet lived amongst their descendants, and
 caused Lord Sandilands to be regarded as "a sweet old thing," who had
-suffered in Love's cause, by _débutantes_ who were unborn when John
+suffered in Love's cause, by _dÃ©butantes_ who were unborn when John
 Borlase first won Gertrude Gautier's childish heart.
 
 And yet Lord Sandilands was by no means a representative man. For
@@ -5239,13 +5217,13 @@ Treasury. Many years had elapsed since he had arrayed himself in the
 charming court-costume which intelligence has retained from the
 customs of the dark ages, and presented himself at the levees of his
 sovereign. At flower-shows and races, at afternoon Park or morning
-Row, at garden-parties or _fêtes champêtres_, at none of those
+Row, at garden-parties or _fÃªtes champÃªtres_, at none of those
 gatherings where pleasant Frivolity rules, was Lord Sandilands
 known--at none, rather, save one--the Opera. There he was _facile
 princeps_; there he was king of the place. The check-takers and the
 box-keepers knew him as well as they knew the lessee, and stood in as
 much awe of him. The principal librarians, Messrs. Ivory, MacBone, and
-Déloge, prostrated themselves before him, and were always most anxious
+DÃ©loge, prostrated themselves before him, and were always most anxious
 to learn his opinion of any novelty, as on that opinion they were
 accustomed to base their calculation of profit or loss. With Schrink,
 the critic of the _Statesman_--a cynical, humpbacked man, who had
@@ -5337,7 +5315,7 @@ her ten stone, and looked more like a cook than Lucia; and there was
 Miss Greenwood--Miss Bellenden Greenwood, I beg her pardon--with her
 saucy black eyes, and her red-and-white complexion, and her corkscrew
 ringlets--gad, how horrible! But this child is marvellously
-_distinguée_ and bred-looking; the way her head is set on her
+_distinguÃ©e_ and bred-looking; the way her head is set on her
 shoulders, the shape of her head, the curve of her nostrils, and the
 delicacy of her hands--I'm always telling myself that blood's all
 bosh, as they say in their modern slang; but 'pon my word, one finds
@@ -5363,12 +5341,12 @@ her service in advancing her interests in the profession which she had
 chosen, and in which she was evidently destined to take a high
 position, and in being of use to her in society. And in both these
 ways the old nobleman was of the greatest assistance to the
-_débutante_. As has been before said, his verdict in musical matters
+_dÃ©butante_. As has been before said, his verdict in musical matters
 was immensely thought of; while, though it must be acknowledged that
 the open and avowed support of many elderly noblemen would be anything
 but fortunate in securing the interests of a young musical lady with
 the members of her own sex, that of such a known Galahad as Lord
-Sandilands had due weight, and his protégée, duly escorted by Mrs.
+Sandilands had due weight, and his protÃ©gÃ©e, duly escorted by Mrs.
 Bloxam, "went everywhere." "Everywhere" included Lady Lowndes'; and
 the Marchioness of Carabas knew of this, as how could she do
 otherwise? being a diligent student of the _Morning Post_, in addition
@@ -5387,7 +5365,7 @@ had been specially introduced with the view of eliciting the speaking
 of her heart, declared she was "doosid hard nut to crack," and
 something which had beaten him, the delightful creature in the Blues,
 "by chalks." So that Lady Carabas, carefully noting all the phases of
-society, felt more bound than ever to "keep in" with the _protégée_
+society, felt more bound than ever to "keep in" with the _protÃ©gÃ©e_
 whom she had introduced; and the ambrosial footmen with the powdered
 locks went more frequently than ever between the halls of Carabas and
 the Bayswater villa, and the much-monogramed notes which they conveyed
@@ -5427,7 +5405,7 @@ indeed, and only on one or two occasions subsequent to his
 introduction did Miles avail himself of the hospitality of Carabas
 House. On none of these occasions did he meet Mr. Gilbert Lloyd. The
 same reason which induced Lady Carabas to manoeuvre in keeping her
-friend for the time being from meeting her handsome protégée suggested
+friend for the time being from meeting her handsome protÃ©gÃ©e suggested
 to her the expediency of preventing any possible collision between the
 actual and the intended sharers of her Soul; collision, as Lady
 Carabas thought, by no means unlikely to occur, as she was a shrewd
@@ -5464,7 +5442,7 @@ desirable for a girl in Gertrude's position. But Lord Sandilands knew
 that any question of his natural daughter's marriage would entail the
 disclosure of the relation in which he stood to her; and he dreaded
 the ridicule of the world, dreaded the banter of the club, dreaded
-more than all the elucidation of the fact that the _répandu_ notion of
+more than all the elucidation of the fact that the _rÃ©pandu_ notion of
 his wearing the willow for Lady Lucy Beecher had been all nonsense,
 and that he had consoled himself for her ladyship's defalcation by an
 intrigue of a very different calibre.
@@ -5572,7 +5550,7 @@ have her entirely to himself, he being the only young man admitted
 there, with the exception occasionally of some musical professor,
 native or foreign; the delightful creature in the Blues, and other
 delightful creatures who had made Miss Lambert's acquaintance in
-society, having tried to obtain the _entrée_ in vain.
+society, having tried to obtain the _entrÃ©e_ in vain.
 
 So Miles went on pleasantly in a happy dream, which was very shortly
 to come to an end; for Lord Sandilands, thinking it full time that
@@ -5620,16 +5598,16 @@ many people, to think a matter over means to discuss it with someone
 else. Lord Sandilands was of this class; and though he accepted the
 commission so glibly from Gertrude, he never had the smallest
 intention of deciding upon it without taking excellent advice. That
-advice he sought at the hands of Mr. Déloge, the "librarian" of
+advice he sought at the hands of Mr. DÃ©loge, the "librarian" of
 Jasmin-street.
 
-An odd man, Mr. Déloge--a character worth a passing study. His father,
+An odd man, Mr. DÃ©loge--a character worth a passing study. His father,
 who had been a "librarian" before him, had amassed a large sum of
 money in those good old days when speculations in opera-boxes and
 stall-tickets were highly remunerative to those who knew how to work
 them, had given his son an excellent education abroad, and had hoped
 to see him take a superior position in life. But, to his parent's
-disappointment, young Déloge, returning from the Continent with a
+disappointment, young DÃ©loge, returning from the Continent with a
 knowledge of several languages, and an acquaintance with life and the
 world which serves anyone possessing it better than any other
 knowledge whatsoever, determined to follow the family business, adding
@@ -5640,7 +5618,7 @@ son's decision, and at the time of our story there was no more
 thriving man in London. The old-fashioned shop in Jasmin-street bore
 the name over the door still; but that name was now widely known
 throughout England and Europe. No Secretary of State was harder worked
-than Mr. Déloge, who yet found time to hunt once or twice a week, to
+than Mr. DÃ©loge, who yet found time to hunt once or twice a week, to
 live at Maidenhead during the summer, and at Brighton during the
 autumn, and generally to enjoy life. In person he was a tall thin man,
 with an excellently-made wig and iron-gray whiskers, always calm and
@@ -5657,7 +5635,7 @@ drove to the house in his perfectly-appointed brougham, and the door
 was opened by a strange footman, to whom he gave his card for
 transmission to her grace. The footman led the way into the library,
 poked the fire, wheeled the largest arm-chair in front of it, and
-placed the _Morning Post_ in the visitor's hands. Mr. Déloge had
+placed the _Morning Post_ in the visitor's hands. Mr. DÃ©loge had
 scarcely finished smiling at the extreme empressement of the man's
 manner, when the door was opened, and the same servant pushed his head
 in. "Her grace don't want no hop'ra-box to-night," were his charming
@@ -5665,7 +5643,7 @@ words, delivered in his most offensive manner. The scales had fallen
 from his eyes, and the great creature found he had deceived himself
 into being civil to a "person in business."
 
-Mr. Déloge had gone through what to many men would have been an entire
+Mr. DÃ©loge had gone through what to many men would have been an entire
 day's business in the morning before Lord Sandilands called upon him.
 He had read through an enormous mass of letters, and glanced over
 several newspapers--had pencilled hints for answers on some, and
@@ -5676,10 +5654,10 @@ basso, tenor, and baritone, who were a little used up and bygone in
 England, but who were the greatest creatures that had ever visited
 Australia--so at least said the _Wong-Wong Kangaroo_, a copy of which
 the agent forwarded with his letter; in America, where Schlick's
-opera, in which Mr. Déloge possessed as much copyright as the
+opera, in which Mr. DÃ©loge possessed as much copyright as the
 large-souled American music-sellers could not pillage him of, was a
 great success; in India, whence he had that morning received a large
-order for pianos--for Mr. Déloge is not above the manufacture and
+order for pianos--for Mr. DÃ©loge is not above the manufacture and
 exportation of musical instruments, and, indeed realises a handsome
 yearly revenue from that source alone. Before eleven o'clock he had
 come to terms, and signed and sealed an agreement with Mr. McManus,
@@ -5688,7 +5666,7 @@ throughout the provinces, thus giving the "serious" people who
 objected to costume and gas a quasi-theatrical entertainment which
 they swallowed eagerly; he had sent a cheque for ten pounds to Tom
 Lillibullero, who was solacing his imprisonment in Whitecross-street
-by translating a French libretto for the house of Déloge; he had given
+by translating a French libretto for the house of DÃ©loge; he had given
 one of his clerks a list of a few friends to be asked down to
 Maidenhead the next Sunday--all art people, writers, painters,
 singers, who would have a remarkably jolly day, and enjoy themselves,
@@ -5700,7 +5678,7 @@ publish Mr. Ferdinand Wisk's operetta, which had been performed with
 such success at Carabas House, but that he must stipulate that the
 operetta must be dedicated to her ladyship, and that each _morceau_
 must have a vignette from her ladyship's portrait on the cover. Mr.
-Déloge had not half completed his business for the day when he was
+DÃ©loge had not half completed his business for the day when he was
 informed, through the snake-like elastic pipe that lay at the
 right-hand of his writing-table, that Lord Sandilands was in the shop
 and asking to see him, but he gave orders that his visitor should at
@@ -5710,22 +5688,22 @@ to feel the smallest slight, if indeed there had not been, as there was,
 a feeling of respect between the two men, which, had they been on the
 same social footing, would have been strong friendship.
 
-"How d'ye do, Déloge?" said Lord Sandilands, walking up and heartily
+"How d'ye do, DÃ©loge?" said Lord Sandilands, walking up and heartily
 shaking hands; "this is very kind of you, my good fellow, to allow me
 to come and bother you when you're over head and ears in business, as
 you always are--very kind indeed."
 
-"I don't want to say a pretty thing, my dear lord," said Mr. Déloge,
+"I don't want to say a pretty thing, my dear lord," said Mr. DÃ©loge,
 "but when I can't find leisure from my business to attend to you when
 you want to see me, I'd better give that business up."
 
 "Thanks, very much. Well, what's the news? Been to Tenterden-street
 lately? Any very promising talent making itself heard up there, eh?"
 
-"No, my lord, none indeed--I'm glad to say," replied Déloge with a
+"No, my lord, none indeed--I'm glad to say," replied DÃ©loge with a
 laugh.
 
-"Glad to say! eh, Déloge? that's not very patriotic, is it?"
+"Glad to say! eh, DÃ©loge? that's not very patriotic, is it?"
 
 "O, I did not mean to confine my gladness to the dearth of native
 talent. If you only knew, my dear lord, how I'm hunted cut of life by
@@ -5733,7 +5711,7 @@ promising talent, or by talent which considers itself promising and
 wants to perform, you would know fully how to appreciate, as I do,
 good steady-going mediocrity."
 
-"By Jove, Déloge! this is not very encouraging for me! I came to ask
+"By Jove, DÃ©loge! this is not very encouraging for me! I came to ask
 your advice on the question of bringing out a young lady of
 unquestionable genius."
 
@@ -5777,7 +5755,7 @@ she intended to take to the profession."
 in her, I have come to ask your advice. Now, should she select the
 concert-room or the stage as her arena?"
 
-"The stage! the stage!" cried Déloge excitedly; "there can be no
+"The stage! the stage!" cried DÃ©loge excitedly; "there can be no
 question about it, my dear lord! With that personal appearance and
 that voice, she must have the whole world at her feet, and make her
 fortune in a very few years. Any dumpy little woman who can sing
@@ -5789,10 +5767,10 @@ with that head and that charming figure!"
 "My good friend!" said the delighted old nobleman, "you are becoming
 positively enthusiastic. In these days of total suppression of
 feelings, it does one good to hear you. I am charmed to see you think
-so highly of my _protégée_. Now tell met what's the first step to be
+so highly of my _protÃ©gÃ©e_. Now tell met what's the first step to be
 taken towards bringing her out?"
 
-"I should let Munns hear her," said Mr. Déloge.
+"I should let Munns hear her," said Mr. DÃ©loge.
 
 And Lord Sandilands' face fell, and he looked very grave. Why? Well,
 the mention of Mr. Munns' name was the first thing that had jarred
@@ -5805,7 +5783,7 @@ dozen different sets of society, and received a different answer in
 each. What was his birth or parentage no one, even the veriest club
 scandal-monger, ever assumed to know; and as to his education, he had
 none. He had been so long "before the public" that people ad forgotten
-whence he came, or in what capacity his _début_ was made. Only a very
+whence he came, or in what capacity his _dÃ©but_ was made. Only a very
 few men remembered, or cared to remember, that when Peponelli's
 management of the Grand Scandinavian Opera came to smash disastrously,
 by reason of Miramella, Jacowski, Courtasson, and Herzogenbusch, the
@@ -5838,7 +5816,7 @@ conversation, made a point of letting Mr. Munns know as soon as
 possible that if he, Mr. Munns, should get the theatre it would be
 owing entirely to his, Mr. Leader's, representations,--a statement
 made by Mr. Leader with a view to the future acquisition of gratuitous
-private boxes, and that much coveted _entrée_ known as "going behind."
+private boxes, and that much coveted _entrÃ©e_ known as "going behind."
 
 So Mr. Boulderson Munns became the tenant of the Grand Scandinavian
 Opera House, and took up his position in society, which at once began
@@ -5871,10 +5849,10 @@ Scandinavian Opera House, he continued all these eccentricities of
 pleasure, but mixed with them some excellent business habits. On the
 secession of Miramella, Jacowski, and all the rest, the public
 pronounced the Scandinavian Opera to be utterly dead and done for; but
-after the first few weeks of his season Mr. Munns produced Fräulein
-Brödchen, from the Stockholm Theatre, who fairly routed everyone else
+after the first few weeks of his season Mr. Munns produced FrÃ¤ulein
+BrÃ¶dchen, from the Stockholm Theatre, who fairly routed everyone else
 off their legs, and took London by storm. Never had been known such a
-triumph as that achieved by the Brödchen; boxes and stalls fetched a
+triumph as that achieved by the BrÃ¶dchen; boxes and stalls fetched a
 fabulous price, and were taken weeks in advance. It began to be
 perceived that the right thing was that Norma should have bright red
 hair; and people wondered how they had for so long endured any
@@ -5883,10 +5861,10 @@ the classic profile and the raven locks was nowhere. Jacowski the
 organ-voiced bellowed in vain. The swells of the Young-England
 party--guardsmen and impecunious youths, who were on the free list at
 the Regent--tried to get up an opposition; but Munns ran over to
-Barcelona, and came back with the Señorita Ciaja, whose celebrated
+Barcelona, and came back with the SeÃ±orita Ciaja, whose celebrated
 back-movement in the Cachuca finished the business. The people who
 really understood and cared for music were delighted with the
-Brödchen; the occupants of the stalls and the omnibus-box--crabbed age
+BrÃ¶dchen; the occupants of the stalls and the omnibus-box--crabbed age
 and youth, who, despite the old song, manage to live together
 sometimes, and on each other a good deal--revelled in the Ciaja, and
 the trick was done. Mr. Munns realised an enormous sum of money, and
@@ -5911,13 +5889,13 @@ small keen eyes.
 
 To such a man as this, Lord Sandilands, the polished old nobleman, had
 naturally a strong antipathy; and yet Lord Sandilands was almost the
-only man of his _clientèle_ to whom Mr. Munns showed anything like
+only man of his _clientÃ¨le_ to whom Mr. Munns showed anything like
 real respect. "There's something about that old buffer," he would say,
 "which licks me;" and he could not have paid a greater compliment. The
-Brödchen had retired into private life before this, and the Ciaja had
+BrÃ¶dchen had retired into private life before this, and the Ciaja had
 gone to America on a starring tour; but Mr. Munns had replaced them
 with other attractions, had well maintained his ground: and when Mr.
-Déloge told Lord Sandilands that from Mr. Munns it would be best to
+DÃ©loge told Lord Sandilands that from Mr. Munns it would be best to
 obtain the information and the opinion he sought, the old nobleman
 knew that the librarian was right; though he hated Mr. Munns from the
 bottom of his heart, yet he made up his mind to get the great
@@ -5965,13 +5943,13 @@ Scandinavian Opera House; and if she ain't a success, I'll swallow my
 Lincoln and Bennett!"
 
 There was a pause for a minute, and then Lord Sandilands said: "Do you
-mean that Miss Lambert should make her _début_ on the Italian stage?"
+mean that Miss Lambert should make her _dÃ©but_ on the Italian stage?"
 
-"Not a bit of it," shrieked Mr. Munns; "keep her _début_ for here! A
+"Not a bit of it," shrieked Mr. Munns; "keep her _dÃ©but_ for here! A
 gal like that, who can walk up to the piano and sing away before me,
 won't have any stage-fright, I'll pound it! Let her go to Florence, to
 old Papadaggi--which you know him well, my lord, and can make it all
-square there; let her take lessons of him, and make her _début_ with
+square there; let her take lessons of him, and make her _dÃ©but_ with
 me. I'm a man of my word, as you know, and I see my way."
 
 Within a fortnight from that time Miles Challoner, who had been out of
@@ -6148,7 +6126,7 @@ as understood her passionate devotion to art, her untiring exertions
 in its interests, and to its professors, she spoke in raptures of her
 "dear Grace Lambert," carefully avoiding the distant precision of the
 "Miss" and the too fond familiarity of the "Grace;" she read what she
-called "pet bits" of her young _protégée's_ letters, which were
+called "pet bits" of her young _protÃ©gÃ©e's_ letters, which were
 neither numerous nor lengthy; predicted the future value of those
 precious autographs, and contrived to keep a flickering flame of
 interest in Grace Lambert alive, which her appearance would readily
@@ -6179,7 +6157,7 @@ positively pined for Bayswater--drew near.
 
 There had not been seen such a house at the Grand Scandinavian Opera
 for years; there had not been heard such long-continued thunders of
-applause, such rounds of cheering, since the Brödchen's _début_. Lady
+applause, such rounds of cheering, since the BrÃ¶dchen's _dÃ©but_. Lady
 Carabas and Mr. Munns had each "worked the oracle," according to their
 lights; but the discrimination of her ladyship's friends rendered the
 managerial _claque_ quite unnecessary. The opera was the _Trovatore_,
@@ -6197,7 +6175,7 @@ shop!"
 
 The lobbies and the refreshment-room were emptying of the crowds which
 had been raving to each other after the first act of the beauty and
-talent of the _débutante_, when Lord Ticehurst, who had been among the
+talent of the _dÃ©butante_, when Lord Ticehurst, who had been among the
 loudest demonstrators in the omnibus-box, whither he was returning,
 met Gilbert Lloyd quietly ascending the stairs.
 
@@ -6221,7 +6199,7 @@ When the roar of applause announced the reappearance of the evening's
 heroine, he looked up still leisurely; but the next instant his glass
 was fixed to his eyes, and then his hand shook and his cheeks were
 even whiter than usual, and his nether-lip was firmly held by his
-teeth, as in Miss Grace Lambert, the successful _débutante_, he
+teeth, as in Miss Grace Lambert, the successful _dÃ©butante_, he
 recognised his wife.
 
 
@@ -6264,7 +6242,7 @@ the young lady who had succeeded to the laurels erst won so gallantly
 and worn so gracefully by these two great English singers, and came
 back loud in her praise. The _Mirror_--the weekly journal of
 theatricals and music--uplifted its honest, ungrammatical, kindly
-voice in favour of the _débutante_, and gossiped pleasantly of Kitty
+voice in favour of the _dÃ©butante_, and gossiped pleasantly of Kitty
 Stephens, Vestris, and the few other English-women who have ever sung
 in time and tune. The _Illustrated News_ published Miss Lambert's
 portrait on the same page with the portrait of the trowel with which
@@ -6319,7 +6297,7 @@ possibly obtain from the Government, which he has always earnestly
 supported, a commissionership of five hundred a-year. We can do better
 than that, we others! So, let us say, with the French actress, "_Qu'on
 leur donne des grimaces pour leur argent et vivons hereux!_" and in a
-modified and anglicised sense, "_Vive la vie de Bohème!_"
+modified and anglicised sense, "_Vive la vie de BohÃ¨me!_"
 
 Did Gertrude care much for this kind of cheap incense burnt in her
 honour? Truth to tell, she cared for it very little indeed. When she
@@ -6338,7 +6316,7 @@ time was spent very much as it was before her departure to Italy. The
 drawing-room of the little Bayswater villa was gorgeous and fragrant
 with anonymous bouquets, offerings left the previous night at the
 stage-door; but Miss Lambert had not made one single new acquaintance
-since the night of her _début_. Occasionally on "off-nights" she would
+since the night of her _dÃ©but_. Occasionally on "off-nights" she would
 be seen at Carabas House, or at one or two of the other houses which
 she had been in the habit of visiting before the commencement of her
 professional career; but though she was inundated with invitations,
@@ -6385,7 +6363,7 @@ her aunt? well, Bloxam; you know who I mean--go about to Lady
 Carabas', and all the right sort of people, and the more she won't
 know the wrong sort of people, the more they want to know her, and the
 'let's' tremendous. The other shop's done up, sir; chawed up, smashed!
-MacBone and Ivory and Déloge, and the rest of 'em, tell me they can't
+MacBone and Ivory and DÃ©loge, and the rest of 'em, tell me they can't
 sell a stall for the Regent; and I hear that Miramella threatened
 Jacowski with a fork at dinner the other day, because he spoke of Miss
 Lambert, and swore she'd go to America. Best thing she could do,
@@ -6427,8 +6405,8 @@ borne away before her. She was "thoroughly proper, my dear," they told
 each other in confidence; and the obvious result of propriety being
 marriage, they waited for that result with great impatience.
 
-The successful _début_ of the young lady whom the world regarded as
-his _protégée_, but whom he in his secret soul acknowledged as his
+The successful _dÃ©but_ of the young lady whom the world regarded as
+his _protÃ©gÃ©e_, but whom he in his secret soul acknowledged as his
 daughter, had given Lord Sandilands unmitigated satisfaction!
 Unmitigated, because his worldly knowledge had given him sufficient
 insight into Gertrude's character to enable him to perceive that she
@@ -6488,7 +6466,7 @@ she was surrounded.
 
 And Lady Carabas, who was necessarily apprised of all that happened in
 Grace Lambert's life, was by no means annoyed at or jealous of her
-_protégée's_ introduction to the Dowager Duchess of Broadwater, of
+_protÃ©gÃ©e's_ introduction to the Dowager Duchess of Broadwater, of
 whom, in truth, her ladyship stood somewhat in awe; not that she ever
 confessed this for an instant, speaking of her always as a "most
 charming person," and "quite the nicest old lady of the day;" but
@@ -6502,7 +6480,7 @@ stony glances from under very rigid eyebrows by the Broadwater
 faction. Lady Carabas had somewhat more than a dim idea of all this,
 and had quite sufficient sense of the fitness of things to be aware
 that it was more politic in her to accept the position than to fight
-against it--to know that for a recognised _protégée_ of hers to be
+against it--to know that for a recognised _protÃ©gÃ©e_ of hers to be
 received by the Broadwater clique tacitly reflected credit on her; and
 so, while she shrugged her shoulders when she heard of Lady Lowndes,
 and undisguisedly expressed her scorn at the attempts made by other
@@ -6617,7 +6595,7 @@ prosed wearily for three or four hours; and he went out occasionally.
 He dined with Lord Boscastle, the lord-lieutenant and principal
 grandee of the county, where he met all "the best people," but where
 his attention was principally concentrated on his hostess; for Lady
-Boscastle was _née_ Amelia Milliken, and, as Amelia Milliken, had been
+Boscastle was _nÃ©e_ Amelia Milliken, and, as Amelia Milliken, had been
 the great attraction for two seasons at the Theatre Royal Hatton
 Garden, during the lesseeship of the great Wuff. Miles could
 hardly realise to himself that the mild, elegant, dried-up,
@@ -6674,7 +6652,7 @@ dogged determination which we call "British," and are extremely proud
 of (though, like the man who "treated resolution," in the end we often
 do the thing which we have so stubbornly refused to do); and although
 he knew that Miss Lambert had returned, and was about making her
-_début_ in public, he remained stationary at Rowley Court. He received
+_dÃ©but_ in public, he remained stationary at Rowley Court. He received
 letters regularly from Lord Sandilands, but none of them ever
 contained a hint or a suggestion that he should come up to town;
 indeed, Miles guessed that Miss Lambert would be far too much occupied
@@ -6704,9 +6682,9 @@ know all about it; and I know that there's nothing more horrible.
 There must be _beaux yeux_ somewhere, when a man voluntarily accepts
 that kind of life; and, by Jove! it's a kind of life to make one find
 the most ordinary eyes _beaux_. That confounded country life has
-produced more _mésalliances_, and more--hem! What are you going to do
+produced more _mÃ©salliances_, and more--hem! What are you going to do
 with yourself to-day?" The old nobleman stopped his discourse
-abruptly; with the reflection, perhaps, that _mésalliances_ scarcely
+abruptly; with the reflection, perhaps, that _mÃ©salliances_ scarcely
 fitted him for a theme. Answering him, Miles said that he had nothing
 to do, and that he was entirely at his friend's disposal.
 
@@ -6758,7 +6736,7 @@ knocked up with all their work just now; and as it was such a long way
 Park-lane quite out of bounds), she had asked her nephew Etchingham to
 drive her over. Lord Sandilands bowed very grimly, and Miles Challoner
 then came forward. Lady Carabas was enchanted to see him; rallied him
-on his absence on the night of the _début_; hoped to have him
+on his absence on the night of the _dÃ©but_; hoped to have him
 constantly at Carabas House, and was overwhelmingly gracious. Then
 Lord Ticehurst and Gertrude came in, and after a few conventional
 remarks, the young patrician, after a casual glance out of the window,
@@ -6834,7 +6812,7 @@ issue of which his position in life depended--he would, after looking
 at them vigorously with all his power, turn into bed and sleep as
 calmly as though his mind were entirely free, rising the next morning
 with renewed health and courage to tackle the difficulties again. Just
-at this period of Miss Lambert's _début_, Lloyd happened to be
+at this period of Miss Lambert's _dÃ©but_, Lloyd happened to be
 particularly busy; the Derby--on which he and his party were even more
 than usually interested--was close at hand, and all Gilbert's time was
 absorbed in "squaring" Lord Ticehurst's book and his own. But he knew
@@ -6880,10 +6858,10 @@ business; but they were diametrically contradicted by the cigar-boxes,
 the pipe-rack, the Reynolds proofs, and the Pompeian photographs on
 the walls; the ivory statuettes and the china monsters on the
 chimney-piece; the deer-skins and the tiger-skins, the heavy bronzes,
-the velvet _portières_, and the luxurious chairs and ottomans; all of
+the velvet _portiÃ¨res_, and the luxurious chairs and ottomans; all of
 which indicated the possession of good taste and the means of
 gratifying it. Gilbert Lloyd had chosen these rooms--his bedchamber
-adjoined his sitting-room--when the _ménage_ was first transplanted to
+adjoined his sitting-room--when the _mÃ©nage_ was first transplanted to
 Hill-street from Limmer's--where, during the reign of Plater Dobbs,
 Lord Ticehurst had resided--and had kept them ever since. He had
 chosen them because they were pleasant and airy, and so far out of the
@@ -6987,7 +6965,7 @@ out. It is not for me to teach etiquette to any lady, especially to
 Lady Carabas, who despises conventionality, and who, besides, is quite
 old enough to take care of herself. I should have thought that for a
 lady to come to a bachelor's house--however, of course she'll have her
-maid and her footman, and some one to act as her _âme damnées_--her
+maid and her footman, and some one to act as her _Ã¢me damnÃ©es_--her
 sheep-dog. Who is the sheep-dog, by the way?"
 
 "I don't know about sheep-dog," said Lord Ticehurst, flushing very
@@ -7108,7 +7086,7 @@ It will keep him from dangling after any other woman, and it can come
 to nothing. I know her ladyship of Carabas rather too well to credit
 her with any desire for Miss Lambert the opera-singer as a relative;
 as a plaything, an amusement, she's well enough: but Lady Carabas
-cries '_Halte là!_' and a hint from me to her would make her speak the
+cries '_Halte lÃ !_' and a hint from me to her would make her speak the
 word. Besides, _I_ am not dead yet, and I might have something to say
 about my wife's second marriage--that is, of course, supposing that
 second marriage did not suit my views. But there will be no question
@@ -7362,7 +7340,7 @@ figure, the tasteful simplicity of her dress--and he noticed all
 these details down to the fit of her gloves and the colour of her
 bonnet-strings--he raged against himself for having been fool enough
 to relinquish the hold he once had on her. Could that hold be
-reëstablished? If he were again to have an opportunity--But while
+reÃ«stablished? If he were again to have an opportunity--But while
 these thoughts were passing through his mind, Gertrude had finished
 her song and quitted the orchestra, and her glance had not fallen on
 him again.
@@ -7510,7 +7488,7 @@ strict discipline of professional training that she was enabled to get
 over it so quickly--her thoughts reverted to the subject, and she was
 able to discuss it calmly with herself. What brought Gilbert Lloyd to
 that place? She knew him well enough to feel sure that there must have
-been some strong inducement, and what could that be? Gilbert was _lié_
+been some strong inducement, and what could that be? Gilbert was _liÃ©_
 with Lord Ticehurst; and that that full-flavoured young nobleman was
 considerably in love with her, Gertrude had never attempted to
 disguise from herself; but what could that matter to the man from whom
@@ -7530,7 +7508,7 @@ him; the marchioness would be only too happy to dilate on such a
 subject.
 
 By the time Miss Lambert was to sing again, she had quite made up her
-mind on this point, and the sight of Gilbert Lloyd, _planté là_, did
+mind on this point, and the sight of Gilbert Lloyd, _plantÃ© lÃ _, did
 not cause her the slightest emotion. He stood as one rapt, fascinated
 by her beauty, drinking-in her voice, with one constant idea beating
 in his brain:--Was the past irrevocable? could not the mischief be
@@ -7566,7 +7544,7 @@ while all the time it's all right for _you!_"
 
 "There!" said Tommy Toshington, wagging his new wig and his
 curly-brimmed hat in the direction where Lord Ticehurst was sitting;
-"his lordship is _entêté_ with a certain warbler, eh? Fourth finger of
+"his lordship is _entÃªtÃ©_ with a certain warbler, eh? Fourth finger of
 the left hand--death do us part, and all that sort of thing, eh? That
 wouldn't suit your book, I should think--have to give up your rooms;
 she persuade him to cut the turf, go to church, and that kind of
@@ -7618,363 +7596,4 @@ PRINTING OFFICE OF THE PUBLISHER.
 
 End of Project Gutenberg's The Rock Ahead. (Vol. 1 of 2), by Edmund Yates
 
-*** END OF THIS PROJECT GUTENBERG EBOOK THE ROCK AHEAD. (VOL. 1 OF 2) ***
-
-***** This file should be named 59911-8.txt or 59911-8.zip *****
-This and all associated files of various formats will be found in:
-        http://www.gutenberg.org/5/9/9/1/59911/
-
-Produced by Charles Bowen
-Updated editions will replace the previous one--the old editions will
-be renamed.
-
-Creating the works from print editions not protected by U.S. copyright
-law means that no one owns a United States copyright in these works,
-so the Foundation (and you!) can copy and distribute it in the United
-States without permission and without paying copyright
-royalties. Special rules, set forth in the General Terms of Use part
-of this license, apply to copying and distributing Project
-Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
-concept and trademark. Project Gutenberg is a registered trademark,
-and may not be used if you charge for the eBooks, unless you receive
-specific permission. If you do not charge anything for copies of this
-eBook, complying with the rules is very easy. You may use this eBook
-for nearly any purpose such as creation of derivative works, reports,
-performances and research. They may be modified and printed and given
-away--you may do practically ANYTHING in the United States with eBooks
-not protected by U.S. copyright law. Redistribution is subject to the
-trademark license, especially commercial redistribution.
-
-START: FULL LICENSE
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full
-Project Gutenberg-tm License available with this file or online at
-www.gutenberg.org/license.
-
-Section 1. General Terms of Use and Redistributing Project
-Gutenberg-tm electronic works
-
-1.A. By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement. If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or
-destroy all copies of Project Gutenberg-tm electronic works in your
-possession. If you paid a fee for obtaining a copy of or access to a
-Project Gutenberg-tm electronic work and you do not agree to be bound
-by the terms of this agreement, you may obtain a refund from the
-person or entity to whom you paid the fee as set forth in paragraph
-1.E.8.
-
-1.B. "Project Gutenberg" is a registered trademark. It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement. There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement. See
-paragraph 1.C below. There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this
-agreement and help preserve free future access to Project Gutenberg-tm
-electronic works. See paragraph 1.E below.
-
-1.C. The Project Gutenberg Literary Archive Foundation ("the
-Foundation" or PGLAF), owns a compilation copyright in the collection
-of Project Gutenberg-tm electronic works. Nearly all the individual
-works in the collection are in the public domain in the United
-States. If an individual work is unprotected by copyright law in the
-United States and you are located in the United States, we do not
-claim a right to prevent you from copying, distributing, performing,
-displaying or creating derivative works based on the work as long as
-all references to Project Gutenberg are removed. Of course, we hope
-that you will support the Project Gutenberg-tm mission of promoting
-free access to electronic works by freely sharing Project Gutenberg-tm
-works in compliance with the terms of this agreement for keeping the
-Project Gutenberg-tm name associated with the work. You can easily
-comply with the terms of this agreement by keeping this work in the
-same format with its attached full Project Gutenberg-tm License when
-you share it without charge with others.
-
-1.D. The copyright laws of the place where you are located also govern
-what you can do with this work. Copyright laws in most countries are
-in a constant state of change. If you are outside the United States,
-check the laws of your country in addition to the terms of this
-agreement before downloading, copying, displaying, performing,
-distributing or creating derivative works based on this work or any
-other Project Gutenberg-tm work. The Foundation makes no
-representations concerning the copyright status of any work in any
-country outside the United States.
-
-1.E. Unless you have removed all references to Project Gutenberg:
-
-1.E.1. The following sentence, with active links to, or other
-immediate access to, the full Project Gutenberg-tm License must appear
-prominently whenever any copy of a Project Gutenberg-tm work (any work
-on which the phrase "Project Gutenberg" appears, or with which the
-phrase "Project Gutenberg" is associated) is accessed, displayed,
-performed, viewed, copied or distributed:
-
-  This eBook is for the use of anyone anywhere in the United States and
-  most other parts of the world at no cost and with almost no
-  restrictions whatsoever. You may copy it, give it away or re-use it
-  under the terms of the Project Gutenberg License included with this
-  eBook or online at www.gutenberg.org. If you are not located in the
-  United States, you'll have to check the laws of the country where you
-  are located before using this ebook.
-
-1.E.2. If an individual Project Gutenberg-tm electronic work is
-derived from texts not protected by U.S. copyright law (does not
-contain a notice indicating that it is posted with permission of the
-copyright holder), the work can be copied and distributed to anyone in
-the United States without paying any fees or charges. If you are
-redistributing or providing access to a work with the phrase "Project
-Gutenberg" associated with or appearing on the work, you must comply
-either with the requirements of paragraphs 1.E.1 through 1.E.7 or
-obtain permission for the use of the work and the Project Gutenberg-tm
-trademark as set forth in paragraphs 1.E.8 or 1.E.9.
-
-1.E.3. If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any
-additional terms imposed by the copyright holder. Additional terms
-will be linked to the Project Gutenberg-tm License for all works
-posted with the permission of the copyright holder found at the
-beginning of this work.
-
-1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5. Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6. You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including
-any word processing or hypertext form. However, if you provide access
-to or distribute copies of a Project Gutenberg-tm work in a format
-other than "Plain Vanilla ASCII" or other format used in the official
-version posted on the official Project Gutenberg-tm web site
-(www.gutenberg.org), you must, at no additional cost, fee or expense
-to the user, provide a copy, a means of exporting a copy, or a means
-of obtaining a copy upon request, of the work in its original "Plain
-Vanilla ASCII" or other form. Any alternate format must include the
-full Project Gutenberg-tm License as specified in paragraph 1.E.1.
-
-1.E.7. Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8. You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works
-provided that
-
-* You pay a royalty fee of 20% of the gross profits you derive from
-  the use of Project Gutenberg-tm works calculated using the method
-  you already use to calculate your applicable taxes. The fee is owed
-  to the owner of the Project Gutenberg-tm trademark, but he has
-  agreed to donate royalties under this paragraph to the Project
-  Gutenberg Literary Archive Foundation. Royalty payments must be paid
-  within 60 days following each date on which you prepare (or are
-  legally required to prepare) your periodic tax returns. Royalty
-  payments should be clearly marked as such and sent to the Project
-  Gutenberg Literary Archive Foundation at the address specified in
-  Section 4, "Information about donations to the Project Gutenberg
-  Literary Archive Foundation."
-
-* You provide a full refund of any money paid by a user who notifies
-  you in writing (or by e-mail) within 30 days of receipt that s/he
-  does not agree to the terms of the full Project Gutenberg-tm
-  License. You must require such a user to return or destroy all
-  copies of the works possessed in a physical medium and discontinue
-  all use of and all access to other copies of Project Gutenberg-tm
-  works.
-
-* You provide, in accordance with paragraph 1.F.3, a full refund of
-  any money paid for a work or a replacement copy, if a defect in the
-  electronic work is discovered and reported to you within 90 days of
-  receipt of the work.
-
-* You comply with all other terms of this agreement for free
-  distribution of Project Gutenberg-tm works.
-
-1.E.9. If you wish to charge a fee or distribute a Project
-Gutenberg-tm electronic work or group of works on different terms than
-are set forth in this agreement, you must obtain permission in writing
-from both the Project Gutenberg Literary Archive Foundation and The
-Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
-trademark. Contact the Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1. Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-works not protected by U.S. copyright law in creating the Project
-Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
-electronic works, and the medium on which they may be stored, may
-contain "Defects," such as, but not limited to, incomplete, inaccurate
-or corrupt data, transcription errors, a copyright or other
-intellectual property infringement, a defective or damaged disk or
-other medium, a computer virus, or computer codes that damage or
-cannot be read by your equipment.
-
-1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from. If you
-received the work on a physical medium, you must return the medium
-with your written explanation. The person or entity that provided you
-with the defective work may elect to provide a replacement copy in
-lieu of a refund. If you received the work electronically, the person
-or entity providing it to you may choose to give you a second
-opportunity to receive the work electronically in lieu of a refund. If
-the second copy is also defective, you may demand a refund in writing
-without further opportunities to fix the problem.
-
-1.F.4. Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
-OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
-LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5. Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of
-damages. If any disclaimer or limitation set forth in this agreement
-violates the law of the state applicable to this agreement, the
-agreement shall be interpreted to make the maximum disclaimer or
-limitation permitted by the applicable state law. The invalidity or
-unenforceability of any provision of this agreement shall not void the
-remaining provisions.
-
-1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in
-accordance with this agreement, and any volunteers associated with the
-production, promotion and distribution of Project Gutenberg-tm
-electronic works, harmless from all liability, costs and expenses,
-including legal fees, that arise directly or indirectly from any of
-the following which you do or cause to occur: (a) distribution of this
-or any Project Gutenberg-tm work, (b) alteration, modification, or
-additions or deletions to any Project Gutenberg-tm work, and (c) any
-Defect you cause.
-
-Section 2. Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of
-computers including obsolete, old, middle-aged and new computers. It
-exists because of the efforts of hundreds of volunteers and donations
-from people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need are critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come. In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future
-generations. To learn more about the Project Gutenberg Literary
-Archive Foundation and how your efforts and donations can help, see
-Sections 3 and 4 and the Foundation information page at
-www.gutenberg.org
-
-
-
-Section 3. Information about the Project Gutenberg Literary Archive Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service. The Foundation's EIN or federal tax identification
-number is 64-6221541. Contributions to the Project Gutenberg Literary
-Archive Foundation are tax deductible to the full extent permitted by
-U.S. federal laws and your state's laws.
-
-The Foundation's principal office is in Fairbanks, Alaska, with the
-mailing address: PO Box 750175, Fairbanks, AK 99775, but its
-volunteers and employees are scattered throughout numerous
-locations. Its business office is located at 809 North 1500 West, Salt
-Lake City, UT 84116, (801) 596-1887. Email contact links and up to
-date contact information can be found at the Foundation's web site and
-official page at www.gutenberg.org/contact
-
-For additional contact information:
-
-    Dr. Gregory B. Newby
-    Chief Executive and Director
-    gbnewby@pglaf.org
-
-Section 4. Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment. Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States. Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements. We do not solicit donations in locations
-where we have not received written confirmation of compliance. To SEND
-DONATIONS or determine the status of compliance for any particular
-state visit www.gutenberg.org/donate
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States. U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses. Donations are accepted in a number of other
-ways including checks, online payments and credit card donations. To
-donate, please visit: www.gutenberg.org/donate
-
-Section 5. General Information About Project Gutenberg-tm electronic works.
-
-Professor Michael S. Hart was the originator of the Project
-Gutenberg-tm concept of a library of electronic works that could be
-freely shared with anyone. For forty years, he produced and
-distributed Project Gutenberg-tm eBooks with only a loose network of
-volunteer support.
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as not protected by copyright in
-the U.S. unless a copyright notice is included. Thus, we do not
-necessarily keep eBooks in compliance with any particular paper
-edition.
-
-Most people start at our Web site which has the main PG search
-facility: www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
-
+*** END OF THE PROJECT GUTENBERG EBOOK 59911 ***
